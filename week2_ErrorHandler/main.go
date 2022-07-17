@@ -11,7 +11,6 @@ import (
 )
 
 func main() {
-
 	err := queryUserInfo("lisa")
 	log.Println(err)
 }
